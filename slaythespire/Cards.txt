@@ -1,0 +1,157 @@
+Strike:3
+Defend:2
+Bash:1
+Thunderclap:0
+Recycle:5
+Genetic Algorithm:6
+Meteor Strike:3
+Blizzard:1
+Biased Cognition:4
+Crush:5
+Tempest:2
+All For One:0
+Hyperbeam:1
+Blizzard:6
+Strike:4
+Recycle:3
+Biased Cognition:2
+Bash:2
+Thunderclap:1
+Genetic Algorithm:4
+Meteor Strike:2
+Bash:0
+Tempest:5
+Thunderclap:6
+Crush:3
+Blizzard:5
+Biased Cognition:0
+Strike:2
+Recycle:4
+Hyperbeam:0
+Crush:1
+All For One:5
+Blizzard:3
+Bash:6
+Thunderclap:3
+Meteor Strike:1
+Defend:2
+Blizzard:0
+Recycle:6
+Strike:5
+Genetic Algorithm:5
+Hyperbeam:2
+Tempest:4
+Bash:1
+Defend:3
+Crush:4
+Blizzard:3
+Biased Cognition:6
+Thunderclap:5
+Genetic Algorithm:2
+Recycle:0
+Tempest:1
+Meteor Strike:4
+Crush:5
+Blizzard:2
+All For One:4
+Thunderclap:6
+Strike:0
+Bash:3
+Hyperbeam:3
+Blizzard:4
+Genetic Algorithm:1
+Defend:5
+Biased Cognition:1
+Meteor Strike:5
+Recycle:2
+Bash:6
+Crush:0
+All For One:3
+Thunderclap:2
+Strike:1
+Genetic Algorithm:6
+Tempest:0
+Bash:4
+Hyperbeam:1
+Blizzard:2
+All For One:5
+Crush:4
+Defend:1
+Recycle:5
+Strike:4
+Thunderclap:0
+Meteor Strike:6
+Biased Cognition:3
+Tempest:6
+Strike:5
+Crush:2
+Genetic Algorithm:3
+Hyperbeam:2
+Recycle:1
+All For One:2
+Tempest:5
+Bash:1
+Strike:3
+Defend:6
+Blizzard:6
+Genetic Algorithm:0
+Thunderclap:4
+Hyperbeam:5
+Meteor Strike:0
+Tempest:2
+Bash:3
+Biased Cognition:5
+All For One:4
+Crush:5
+Thunderclap:2
+Recycle:4
+Strike:5
+Genetic Algorithm:4
+Blizzard:3
+Meteor Strike:5
+Defend:0
+Bash:2
+Biased Cognition:2
+Tempest:6
+Thunderclap:1
+Crush:1
+Recycle:0
+All For One:3
+Blizzard:4
+Genetic Algorithm:2
+Strike:0
+Hyperbeam:1
+Bash:3
+Defend:2
+Meteor Strike:6
+Biased Cognition:4
+Crush:2
+Tempest:3
+Thunderclap:5
+Recycle:1
+All For One:1
+Bash:4
+Blizzard:0
+Genetic Algorithm:5
+Strike:6
+Hyperbeam:6
+Defend:4
+Biased Cognition:1
+Tempest:2
+Crush:3
+Thunderclap:5
+Blizzard:5
+Meteor Strike:1
+Bash:2
+All For One:0
+Genetic Algorithm:6
+Recycle:3
+Biased Cognition:6
+Defend:3
+Strike:2
+Tempest:4
+Thunderclap:6
+Bash:4
+Genetic Algorithm:0
+Hyperbeam:2
+Blizzard:1
