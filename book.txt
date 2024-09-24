@@ -1,0 +1,12 @@
+Radio and these newer technologies have something else in common: they are constantly evolving. In fact, because the Internet and mobile phones have created new opportunities for mass and masspersonal communication through spoken words and music, the radio industry has been scrambling to expand and migrate audio programming from its old wireless network (which dates back more than a century) to the newer wireless environment of today.
+
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.gitignore
+	book.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+peterhoang@Peters-MacBook-Pro GitFall2024-Peter % 
